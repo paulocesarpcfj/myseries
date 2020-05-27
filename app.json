@@ -1,0 +1,17 @@
+{
+  "name": "series-watcher",
+  "displayName": "Series Watcher",
+  "expo": {
+    "sdkVersion": "37.0.0",
+    "name": "series-watcher",
+    "ios": {
+      "bundleIdentifier": "app"
+    },
+    "android": {
+      "package": "android"
+    },
+    "entryPoint": "node_modules/expo/AppEntry.js",
+    "description": "",
+    "slug": "series-watcher"
+  }
+}
