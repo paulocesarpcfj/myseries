@@ -13,7 +13,7 @@
   An app for organize the episodes of your favorite Series/TV Shows that you already watched.
 </p>
 
-## 🚀 How to help
+## How to help
 
 - Install with `yarn` or `npm install`.
 - Run `expo start` to try it out.
